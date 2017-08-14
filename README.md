@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+Hi Humuns,
+
+Hubot here, just come to say hi!!
