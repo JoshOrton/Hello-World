@@ -18,8 +18,13 @@ def power(x,y):
          return x
 
     else: return x * power(x,y-1)
+def factorial(x):
+    if (x == 0):
+        return 1
+    return x * factorial(x-1)
 
-x = power(4,2);
+
+x = factorial(100);
 print(power(4,3))
 print(power(4,0))
 print(x)
